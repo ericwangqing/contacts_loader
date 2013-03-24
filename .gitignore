@@ -1,0 +1,15 @@
+tmp
+bin
+build
+*.zip
+.apt_generated
+*.a
+*.class
+*.dll
+*.dylib
+*.exe
+*.o
+*.obj
+*.pyc
+*.pyo
+*.so

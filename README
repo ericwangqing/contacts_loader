@@ -1,0 +1,4 @@
+yoyo android版的contact loader。
+1、import本项目到titanium studio（import --》 git repository）
+2、设置package 到yoyo grid，此时：
+其编译后的jar将自动部署到yoyo grid项目中，yoyo grid在打包工程时将自动带上这个jar。
